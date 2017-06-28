@@ -1,0 +1,1005 @@
+Verbose Output Requested.
+
+Number of files to be examined: 19
+
+Metric 1: Evaluate Blank Lines:
+
+File 1: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h
+Score for file = 27.2727% good code, based on 30 incorrect usages of blank lines out of 110 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 12
+	FIX -> Delete line 12.
+
+	2) An extra blank line was added on line: 50
+	FIX -> Delete line 50.
+
+	3) An extra blank line was added on line: 51
+	FIX -> Delete line 51.
+
+	4) An extra blank line was added on line: 52
+	FIX -> Delete line 52.
+
+	5) An extra blank line was added on line: 53
+	FIX -> Delete line 53.
+
+	6) An extra blank line was added on line: 54
+	FIX -> Delete line 54.
+
+	7) An extra blank line was added on line: 55
+	FIX -> Delete line 55.
+
+	8) An extra blank line was added on line: 99
+	FIX -> Delete line 99.
+
+	9) An extra blank line was added on line: 103
+	FIX -> Delete line 103.
+
+	10) An extra blank line was added on line: 134
+	FIX -> Delete line 134.
+
+	11) An extra blank line was added on line: 135
+	FIX -> Delete line 135.
+
+	12) An extra blank line was added on line: 138
+	FIX -> Delete line 138.
+
+	13) An extra blank line was added on line: 139
+	FIX -> Delete line 139.
+
+	14) An extra blank line was added on line: 140
+	FIX -> Delete line 140.
+
+	15) An extra blank line was added on line: 141
+	FIX -> Delete line 141.
+
+	16) An extra blank line was added on line: 142
+	FIX -> Delete line 142.
+
+	17) An extra blank line was added on line: 155
+	FIX -> Delete line 155.
+
+	18) An extra blank line was added on line: 189
+	FIX -> Delete line 189.
+
+	19) An extra blank line was added on line: 207
+	FIX -> Delete line 207.
+
+	20) An extra blank line was added on line: 318
+	FIX -> Delete line 318.
+
+	21) An extra blank line was added on line: 366
+	FIX -> Delete line 366.
+
+	22) An extra blank line was added on line: 375
+	FIX -> Delete line 375.
+
+	23) An extra blank line was added on line: 492
+	FIX -> Delete line 492.
+
+	24) An extra blank line was added on line: 493
+	FIX -> Delete line 493.
+
+	25) An extra blank line was added on line: 494
+	FIX -> Delete line 494.
+
+	26) An extra blank line was added on line: 495
+	FIX -> Delete line 495.
+
+	27) An extra blank line was added on line: 496
+	FIX -> Delete line 496.
+
+	28) An extra blank line was added on line: 497
+	FIX -> Delete line 497.
+
+	29) An extra blank line was added on line: 552
+	FIX -> Delete line 552.
+
+	30) An extra blank line was added on line: 553
+	FIX -> Delete line 553.
+
+File 2: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.cpp
+Score for file = 9.7561% good code, based on 4 incorrect usages of blank lines out of 41 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 106
+	FIX -> Delete line 106.
+
+	2) An extra blank line was added on line: 129
+	FIX -> Delete line 129.
+
+	3) An extra blank line was added on line: 167
+	FIX -> Delete line 167.
+
+	4) An extra blank line was added on line: 187
+	FIX -> Delete line 187.
+
+File 3: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.h
+Score for file = 0% good code, based on 0 incorrect usages of blank lines out of 8 total instances of blank lines.
+	All blank lines in this file were used correctly.
+
+File 4: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.cpp
+Score for file = 2.04082% good code, based on 1 incorrect usage of blank lines out of 49 total instances of blank lines.
+------->Break down for the incorrect usage of blank lines:
+
+	1) An extra blank line was added on line: 365
+	FIX -> Delete line 365.
+
+File 5: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.h
+Score for file = 14.2857% good code, based on 1 incorrect usage of blank lines out of 7 total instances of blank lines.
+------->Break down for the incorrect usage of blank lines:
+
+	1) An extra blank line was added on line: 39
+	FIX -> Delete line 39.
+
+File 6: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/dsstring.cpp
+Score for file = 15.9292% good code, based on 18 incorrect usages of blank lines out of 113 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 79
+	FIX -> Delete line 79.
+
+	2) An extra blank line was added on line: 80
+	FIX -> Delete line 80.
+
+	3) An extra blank line was added on line: 180
+	FIX -> Delete line 180.
+
+	4) An extra blank line was added on line: 181
+	FIX -> Delete line 181.
+
+	5) An extra blank line was added on line: 269
+	FIX -> Delete line 269.
+
+	6) An extra blank line was added on line: 362
+	FIX -> Delete line 362.
+
+	7) An extra blank line was added on line: 363
+	FIX -> Delete line 363.
+
+	8) An extra blank line was added on line: 366
+	FIX -> Delete line 366.
+
+	9) An extra blank line was added on line: 367
+	FIX -> Delete line 367.
+
+	10) An extra blank line was added on line: 554
+	FIX -> Delete line 554.
+
+	11) An extra blank line was added on line: 586
+	FIX -> Delete line 586.
+
+	12) An extra blank line was added on line: 587
+	FIX -> Delete line 587.
+
+	13) An extra blank line was added on line: 629
+	FIX -> Delete line 629.
+
+	14) An extra blank line was added on line: 702
+	FIX -> Delete line 702.
+
+	15) An extra blank line was added on line: 703
+	FIX -> Delete line 703.
+
+	16) An extra blank line was added on line: 704
+	FIX -> Delete line 704.
+
+	17) An extra blank line was added on line: 705
+	FIX -> Delete line 705.
+
+	18) An extra blank line was added on line: 706
+	FIX -> Delete line 706.
+
+File 7: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/DSString.h
+Score for file = 19.5652% good code, based on 9 incorrect usages of blank lines out of 46 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 12
+	FIX -> Delete line 12.
+
+	2) An extra blank line was added on line: 15
+	FIX -> Delete line 15.
+
+	3) An extra blank line was added on line: 16
+	FIX -> Delete line 16.
+
+	4) An extra blank line was added on line: 17
+	FIX -> Delete line 17.
+
+	5) An extra blank line was added on line: 118
+	FIX -> Delete line 118.
+
+	6) An extra blank line was added on line: 119
+	FIX -> Delete line 119.
+
+	7) An extra blank line was added on line: 120
+	FIX -> Delete line 120.
+
+	8) An extra blank line was added on line: 126
+	FIX -> Delete line 126.
+
+	9) An extra blank line was added on line: 129
+	FIX -> Delete line 129.
+
+File 8: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.cpp
+Score for file = 17.1053% good code, based on 13 incorrect usages of blank lines out of 76 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 11
+	FIX -> Delete line 11.
+
+	2) An extra blank line was added on line: 185
+	FIX -> Delete line 185.
+
+	3) An extra blank line was added on line: 278
+	FIX -> Delete line 278.
+
+	4) An extra blank line was added on line: 334
+	FIX -> Delete line 334.
+
+	5) An extra blank line was added on line: 335
+	FIX -> Delete line 335.
+
+	6) An extra blank line was added on line: 339
+	FIX -> Delete line 339.
+
+	7) An extra blank line was added on line: 340
+	FIX -> Delete line 340.
+
+	8) An extra blank line was added on line: 397
+	FIX -> Delete line 397.
+
+	9) An extra blank line was added on line: 398
+	FIX -> Delete line 398.
+
+	10) An extra blank line was added on line: 426
+	FIX -> Delete line 426.
+
+	11) An extra blank line was added on line: 427
+	FIX -> Delete line 427.
+
+	12) An extra blank line was added on line: 428
+	FIX -> Delete line 428.
+
+	13) An extra blank line was added on line: 459
+	FIX -> Delete line 459.
+
+File 9: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.h
+Score for file = 11.1111% good code, based on 1 incorrect usage of blank lines out of 9 total instances of blank lines.
+------->Break down for the incorrect usage of blank lines:
+
+	1) An extra blank line was added on line: 41
+	FIX -> Delete line 41.
+
+File 10: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.cpp
+Score for file = 6.81818% good code, based on 3 incorrect usages of blank lines out of 44 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 139
+	FIX -> Delete line 139.
+
+	2) An extra blank line was added on line: 208
+	FIX -> Delete line 208.
+
+	3) An extra blank line was added on line: 209
+	FIX -> Delete line 209.
+
+File 11: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.h
+Score for file = 12.5% good code, based on 1 incorrect usage of blank lines out of 8 total instances of blank lines.
+------->Break down for the incorrect usage of blank lines:
+
+	1) An extra blank line was added on line: 38
+	FIX -> Delete line 38.
+
+File 12: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h
+Score for file = 19.7531% good code, based on 16 incorrect usages of blank lines out of 81 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 2
+	FIX -> Delete line 2.
+
+	2) An extra blank line was added on line: 13
+	FIX -> Delete line 13.
+
+	3) An extra blank line was added on line: 14
+	FIX -> Delete line 14.
+
+	4) An extra blank line was added on line: 115
+	FIX -> Delete line 115.
+
+	5) An extra blank line was added on line: 254
+	FIX -> Delete line 254.
+
+	6) An extra blank line was added on line: 255
+	FIX -> Delete line 255.
+
+	7) An extra blank line was added on line: 410
+	FIX -> Delete line 410.
+
+	8) An extra blank line was added on line: 438
+	FIX -> Delete line 438.
+
+	9) An extra blank line was added on line: 539
+	FIX -> Delete line 539.
+
+	10) An extra blank line was added on line: 681
+	FIX -> Delete line 681.
+
+	11) An extra blank line was added on line: 763
+	FIX -> Delete line 763.
+
+	12) An extra blank line was added on line: 870
+	FIX -> Delete line 870.
+
+	13) An extra blank line was added on line: 871
+	FIX -> Delete line 871.
+
+	14) An extra blank line was added on line: 909
+	FIX -> Delete line 909.
+
+	15) An extra blank line was added on line: 910
+	FIX -> Delete line 910.
+
+	16) An extra blank line was added on line: 911
+	FIX -> Delete line 911.
+
+File 13: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/main.cpp
+Score for file = 0% good code, based on 0 incorrect usages of blank lines out of 6 total instances of blank lines.
+	All blank lines in this file were used correctly.
+
+File 14: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Metrics.h
+Score for file = 0% good code, based on 0 incorrect usages of blank lines out of 10 total instances of blank lines.
+	All blank lines in this file were used correctly.
+
+File 15: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp
+Score for file = 6.25% good code, based on 1 incorrect usage of blank lines out of 16 total instances of blank lines.
+------->Break down for the incorrect usage of blank lines:
+
+	1) An extra blank line was added on line: 34
+	FIX -> Delete line 34.
+
+File 16: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.h
+Score for file = 18.1818% good code, based on 2 incorrect usages of blank lines out of 11 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 28
+	FIX -> Delete line 28.
+
+	2) An extra blank line was added on line: 46
+	FIX -> Delete line 46.
+
+File 17: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp
+Score for file = 19.8675% good code, based on 30 incorrect usages of blank lines out of 151 total instances of blank lines.
+------->Break down for the incorrect usages of blank lines:
+
+	1) An extra blank line was added on line: 23
+	FIX -> Delete line 23.
+
+	2) An extra blank line was added on line: 78
+	FIX -> Delete line 78.
+
+	3) An extra blank line was added on line: 276
+	FIX -> Delete line 276.
+
+	4) An extra blank line was added on line: 384
+	FIX -> Delete line 384.
+
+	5) An extra blank line was added on line: 385
+	FIX -> Delete line 385.
+
+	6) An extra blank line was added on line: 411
+	FIX -> Delete line 411.
+
+	7) An extra blank line was added on line: 469
+	FIX -> Delete line 469.
+
+	8) An extra blank line was added on line: 536
+	FIX -> Delete line 536.
+
+	9) An extra blank line was added on line: 537
+	FIX -> Delete line 537.
+
+	10) An extra blank line was added on line: 563
+	FIX -> Delete line 563.
+
+	11) An extra blank line was added on line: 613
+	FIX -> Delete line 613.
+
+	12) An extra blank line was added on line: 617
+	FIX -> Delete line 617.
+
+	13) An extra blank line was added on line: 618
+	FIX -> Delete line 618.
+
+	14) An extra blank line was added on line: 693
+	FIX -> Delete line 693.
+
+	15) An extra blank line was added on line: 694
+	FIX -> Delete line 694.
+
+	16) An extra blank line was added on line: 720
+	FIX -> Delete line 720.
+
+	17) An extra blank line was added on line: 770
+	FIX -> Delete line 770.
+
+	18) An extra blank line was added on line: 774
+	FIX -> Delete line 774.
+
+	19) An extra blank line was added on line: 775
+	FIX -> Delete line 775.
+
+	20) An extra blank line was added on line: 839
+	FIX -> Delete line 839.
+
+	21) An extra blank line was added on line: 840
+	FIX -> Delete line 840.
+
+	22) An extra blank line was added on line: 866
+	FIX -> Delete line 866.
+
+	23) An extra blank line was added on line: 924
+	FIX -> Delete line 924.
+
+	24) An extra blank line was added on line: 980
+	FIX -> Delete line 980.
+
+	25) An extra blank line was added on line: 981
+	FIX -> Delete line 981.
+
+	26) An extra blank line was added on line: 1007
+	FIX -> Delete line 1007.
+
+	27) An extra blank line was added on line: 1127
+	FIX -> Delete line 1127.
+
+	28) An extra blank line was added on line: 1181
+	FIX -> Delete line 1181.
+
+	29) An extra blank line was added on line: 1247
+	FIX -> Delete line 1247.
+
+	30) An extra blank line was added on line: 1248
+	FIX -> Delete line 1248.
+
+File 18: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.h
+Score for file = 12.5% good code, based on 1 incorrect usage of blank lines out of 8 total instances of blank lines.
+------->Break down for the incorrect usage of blank lines:
+
+	1) An extra blank line was added on line: 39
+	FIX -> Delete line 39.
+
+File 19: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h
+Score for file = 0% good code, based on 0 incorrect usages of blank lines out of 45 total instances of blank lines.
+	All blank lines in this file were used correctly.
+_______________________________________________________________________________________________________________________________________
+	->Total Metric Score: 11.2072% good code.
+
+
+Metric 2: Evaluate Variable and Function Naming conventions:
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h = 43.75% good code, based on 18 correct variable naming conventions out of 32 total variables.
+	Break down for the incorrect names of variables:
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h, member data: AVLTree, begins with an uppercase character... Make: 'A' lowercase.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.cpp = 0% good code, based on 24 correct variable naming conventions out of 24 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.h = 0% good code, based on 1 correct variable naming conventions out of 1 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.cpp = 0% good code, based on 24 correct variable naming conventions out of 24 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.h = 0% good code, based on 1 correct variable naming conventions out of 1 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/dsstring.cpp = 0% good code, based on 77 correct variable naming conventions out of 77 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/DSString.h = 0% good code, based on 23 correct variable naming conventions out of 23 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.cpp = 0% good code, based on 34 correct variable naming conventions out of 34 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.h = 0% good code, based on 1 correct variable naming conventions out of 1 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.cpp = 0% good code, based on 25 correct variable naming conventions out of 25 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.h = 0% good code, based on 1 correct variable naming conventions out of 1 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h = 32.1429% good code, based on 19 correct variable naming conventions out of 28 total variables.
+	Break down for the incorrect names of variables:
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: LinkedList, begins with an uppercase character... Make: 'L' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h, member data: ListNode, begins with an uppercase character... Make: 'L' lowercase.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/main.cpp = 0% good code, based on 21 correct variable naming conventions out of 21 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Metrics.h = 0% good code, based on 9 correct variable naming conventions out of 9 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 0% good code, based on 14 correct variable naming conventions out of 14 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.h = 0% good code, based on 1 correct variable naming conventions out of 1 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp = 22.0779% good code, based on 60 correct variable naming conventions out of 77 total variables.
+	Break down for the incorrect names of variables:
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: p, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: p, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: p, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: p, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: p, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp, member data: h, is only one character... Elaborate this variable name.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.h = 0% good code, based on 1 correct variable naming conventions out of 1 total variables.
+	All variables in this file were named correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h = 24% good code, based on 19 correct variable naming conventions out of 25 total variables.
+	Break down for the incorrect names of variables:
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h, member data: Vector, begins with an uppercase character... Make: 'V' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h, member data: Vector, begins with an uppercase character... Make: 'V' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h, member data: Vector, begins with an uppercase character... Make: 'V' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h, member data: Vector, begins with an uppercase character... Make: 'V' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h, member data: Vector, begins with an uppercase character... Make: 'V' lowercase.
+	In file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h, member data: Vector, begins with an uppercase character... Make: 'V' lowercase.
+_______________________________________________________________________________________________________________________________________
+	->Total Metric Score: 6.42% good code.
+
+
+Metric 3: Evaluate the Average Function Length in a file:
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h = 0% good code, based on average function length: 15 lines of code for every 21 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 18, contains: 29 lines of code... This is acceptable.
+	Function beginning on line 58, contains: 77 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 148, contains: 4 lines of code... This is acceptable.
+	Function beginning on line 159, contains: 7 lines of code... This is acceptable.
+	Function beginning on line 172, contains: 14 lines of code... This is acceptable.
+	Function beginning on line 193, contains: 11 lines of code... This is acceptable.
+	Function beginning on line 211, contains: 4 lines of code... This is acceptable.
+	Function beginning on line 221, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 229, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 237, contains: 11 lines of code... This is acceptable.
+	Function beginning on line 254, contains: 3 lines of code... This is acceptable.
+	Function beginning on line 263, contains: 13 lines of code... This is acceptable.
+	Function beginning on line 282, contains: 1 line of code... This is acceptable.
+	Function beginning on line 289, contains: 26 lines of code... This is acceptable.
+	Function beginning on line 322, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 330, contains: 25 lines of code... This is acceptable.
+	Function beginning on line 361, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 370, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 379, contains: 60 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 445, contains: 10 lines of code... This is acceptable.
+	Function beginning on line 461, contains: 10 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.cpp = 33.3333% good code, based on average function length: 78 lines of code for every 3 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 20, contains: 5 lines of code... This is acceptable.
+	Function beginning on line 30, contains: 1 line of code... This is acceptable.
+	Function beginning on line 36, contains: 228 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.h = 0% good code, based on average function length: 11 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 29, contains: 11 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.cpp = 33.3333% good code, based on average function length: 111.667 lines of code for every 3 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 20, contains: 5 lines of code... This is acceptable.
+	Function beginning on line 30, contains: 1 line of code... This is acceptable.
+	Function beginning on line 36, contains: 329 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.h = 0% good code, based on average function length: 10 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 26, contains: 10 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/dsstring.cpp = 0% good code, based on average function length: 18.3333 lines of code for every 21 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 19, contains: zero lines of code... This is acceptable.
+	Function beginning on line 23, contains: 19 lines of code... This is acceptable.
+	Function beginning on line 47, contains: 18 lines of code... This is acceptable.
+	Function beginning on line 70, contains: 4 lines of code... This is acceptable.
+	Function beginning on line 85, contains: 60 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 150, contains: 25 lines of code... This is acceptable.
+	Function beginning on line 187, contains: 13 lines of code... This is acceptable.
+	Function beginning on line 206, contains: 17 lines of code... This is acceptable.
+	Function beginning on line 229, contains: 17 lines of code... This is acceptable.
+	Function beginning on line 252, contains: 14 lines of code... This is acceptable.
+	Function beginning on line 272, contains: 41 lines of code... This is acceptable.
+	Function beginning on line 318, contains: 41 lines of code... This is acceptable.
+	Function beginning on line 372, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 379, contains: 1 line of code... This is acceptable.
+	Function beginning on line 385, contains: 1 line of code... This is acceptable.
+	Function beginning on line 391, contains: 10 lines of code... This is acceptable.
+	Function beginning on line 406, contains: 10 lines of code... This is acceptable.
+	Function beginning on line 421, contains: 32 lines of code... This is acceptable.
+	Function beginning on line 458, contains: 22 lines of code... This is acceptable.
+	Function beginning on line 485, contains: 19 lines of code... This is acceptable.
+	Function beginning on line 509, contains: 19 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/DSString.h = 100% good code, based on average function length: 101 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 25, contains: 101 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.cpp = 33.3333% good code, based on average function length: 156.333 lines of code for every 3 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 21, contains: 6 lines of code... This is acceptable.
+	Function beginning on line 32, contains: 1 line of code... This is acceptable.
+	Function beginning on line 39, contains: 462 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.h = 0% good code, based on average function length: 11 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 27, contains: 11 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.cpp = 33.3333% good code, based on average function length: 72.3333 lines of code for every 3 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 20, contains: 5 lines of code... This is acceptable.
+	Function beginning on line 30, contains: 1 line of code... This is acceptable.
+	Function beginning on line 36, contains: 211 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.h = 0% good code, based on average function length: 12 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 26, contains: 12 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h = 0% good code, based on average function length: 28.9524 lines of code for every 21 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 20, contains: 22 lines of code... This is acceptable.
+	Function beginning on line 48, contains: 62 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 122, contains: 7 lines of code... This is acceptable.
+	Function beginning on line 135, contains: 13 lines of code... This is acceptable.
+	Function beginning on line 154, contains: 21 lines of code... This is acceptable.
+	Function beginning on line 181, contains: 70 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 259, contains: 102 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 367, contains: 9 lines of code... This is acceptable.
+	Function beginning on line 382, contains: 1 line of code... This is acceptable.
+	Function beginning on line 389, contains: 18 lines of code... This is acceptable.
+	Function beginning on line 414, contains: 21 lines of code... This is acceptable.
+	Function beginning on line 442, contains: 18 lines of code... This is acceptable.
+	Function beginning on line 466, contains: 23 lines of code... This is acceptable.
+	Function beginning on line 495, contains: 27 lines of code... This is acceptable.
+	Function beginning on line 528, contains: 1 line of code... This is acceptable.
+	Function beginning on line 535, contains: 1 line of code... This is acceptable.
+	Function beginning on line 543, contains: 117 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 666, contains: 3 lines of code... This is acceptable.
+	Function beginning on line 675, contains: 3 lines of code... This is acceptable.
+	Function beginning on line 685, contains: 29 lines of code... This is acceptable.
+	Function beginning on line 720, contains: 40 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/main.cpp = 100% good code, based on average function length: 106.5 lines of code for every 2 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 44, contains: 104 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 153, contains: 109 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Metrics.h = 0% good code, based on average function length: 27 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 22, contains: 27 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 0% good code, based on average function length: 36 lines of code for every 3 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 23, contains: 1 line of code... This is acceptable.
+	Function beginning on line 30, contains: 1 line of code... This is acceptable.
+	Function beginning on line 37, contains: 106 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.h = 0% good code, based on average function length: 12 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 31, contains: 12 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp = 33.3333% good code, based on average function length: 402.667 lines of code for every 3 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 28, contains: 5 lines of code... This is acceptable.
+	Function beginning on line 38, contains: 1 line of code... This is acceptable.
+	Function beginning on line 70, contains: 1202 lines of code... Shorten this function or split the task into several smaller functions.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.h = 0% good code, based on average function length: 11 lines of code for every 1 function.
+	Break down for the single function:
+	Function beginning on line 25, contains: 11 lines of code... This is acceptable.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h = 0% good code, based on average function length: 14.7692 lines of code for every 13 functions.
+	Break down for the functions (both correct and incorrect):
+	Function beginning on line 20, contains: 50 lines of code... This is acceptable.
+	Function beginning on line 78, contains: 4 lines of code... This is acceptable.
+	Function beginning on line 88, contains: 4 lines of code... This is acceptable.
+	Function beginning on line 98, contains: 20 lines of code... This is acceptable.
+	Function beginning on line 124, contains: 50 lines of code... This is acceptable.
+	Function beginning on line 180, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 188, contains: 1 line of code... This is acceptable.
+	Function beginning on line 195, contains: 1 line of code... This is acceptable.
+	Function beginning on line 202, contains: 2 lines of code... This is acceptable.
+	Function beginning on line 210, contains: 12 lines of code... This is acceptable.
+	Function beginning on line 228, contains: 14 lines of code... This is acceptable.
+	Function beginning on line 248, contains: 22 lines of code... This is acceptable.
+	Function beginning on line 276, contains: 10 lines of code... This is acceptable.
+_______________________________________________________________________________________________________________________________________
+	->Total Metric Score: 19.3% good code.
+
+
+Metric 4: Evaluate Comment Usage:
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h = 0% good code, based on 157 correct usages of comments out of 157 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.cpp = 0% good code, based on 92 correct usages of comments out of 92 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.h = 0% good code, based on 11 correct usages of comments out of 11 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.cpp = 0% good code, based on 120 correct usages of comments out of 120 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.h = 0% good code, based on 10 correct usages of comments out of 10 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/dsstring.cpp = 28% good code, based on 144 correct usages of comments out of 200 total instances.
+	Break down for the incorrect uses of comments:
+	On line 27, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 28, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 29, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 32, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 34, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 50, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 51, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 52, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 55, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 57, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 101, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 106, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 107, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 108, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 111, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 113, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 157, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 158, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 159, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 164, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 190, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 197, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 200, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 374, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 380, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 392, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 394, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 398, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 401, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 407, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 409, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 413, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 416, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 464, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 478, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 480, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 584, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 588, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 590, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 596, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 601, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 606, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 611, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 637, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 648, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 649, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 653, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 654, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 657, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 659, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 660, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 668, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 669, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 680, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 682, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 683, there was a comment placed after a semi-colon... Place this comment somewhere else.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/DSString.h = 8.10811% good code, based on 34 correct usages of comments out of 37 total instances.
+	Break down for the incorrect uses of comments:
+	On line 122, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 123, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 124, there was a comment placed after a semi-colon... Place this comment somewhere else.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.cpp = 0% good code, based on 167 correct usages of comments out of 167 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.h = 0% good code, based on 9 correct usages of comments out of 9 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.cpp = 0% good code, based on 87 correct usages of comments out of 87 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.h = 0% good code, based on 9 correct usages of comments out of 9 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h = 1.69492% good code, based on 232 correct usages of comments out of 236 total instances.
+	Break down for the incorrect uses of comments:
+	On line 21, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 360, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 467, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 483, there was a comment placed after a semi-colon... Place this comment somewhere else.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/main.cpp = 0% good code, based on 73 correct usages of comments out of 73 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Metrics.h = 0% good code, based on 14 correct usages of comments out of 14 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 11.1111% good code, based on 40 correct usages of comments out of 45 total instances.
+	Break down for the incorrect uses of comments:
+	On line 56, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 57, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 58, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 59, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 60, there was a comment placed after a semi-colon... Place this comment somewhere else.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.h = 0% good code, based on 13 correct usages of comments out of 13 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp = 0% good code, based on 343 correct usages of comments out of 343 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.h = 0% good code, based on 9 correct usages of comments out of 9 total instances.
+	All comments in this file were used correctly.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h = 30.8642% good code, based on 56 correct usages of comments out of 81 total instances.
+	Break down for the incorrect uses of comments:
+	On line 80, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 81, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 82, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 90, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 91, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 92, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 102, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 103, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 114, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 115, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 116, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 145, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 146, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 164, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 165, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 166, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 219, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 220, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 221, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 222, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 234, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 235, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 239, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 240, there was a comment placed after a semi-colon... Place this comment somewhere else.
+	On line 241, there was a comment placed after a semi-colon... Place this comment somewhere else.
+_______________________________________________________________________________________________________________________________________
+	->Total Metric Score: 4.2% good code.
+
+
+Metric 5: Evaluate Line Length:
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/avltree.h = 0% good code, based on 445 correct lengths of lines (<= 100) out of 445 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.cpp = 1.78571% good code, based on 220 correct lengths of lines (<= 100) out of 224 total countable instances.
+	Break down for the incorrect uses of line lengths:
+	On line, 206, there are 195 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 210, there are 211 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 216, there are 227 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 259, there are 190 characters... Reduce the number of characters on this line by splitting onto different lines.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Blanks.h = 0% good code, based on 35 correct lengths of lines (<= 100) out of 35 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.cpp = 1.89274% good code, based on 311 correct lengths of lines (<= 100) out of 317 total countable instances.
+	Break down for the incorrect uses of line lengths:
+	On line, 157, there are 156 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 189, there are 169 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 215, there are 169 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 230, there are 164 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 297, there are 185 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 358, there are 190 characters... Reduce the number of characters on this line by splitting onto different lines.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/CommentUsage.h = 0% good code, based on 33 correct lengths of lines (<= 100) out of 33 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/dsstring.cpp = 0% good code, based on 596 correct lengths of lines (<= 100) out of 596 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/DSString.h = 0% good code, based on 84 correct lengths of lines (<= 100) out of 84 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.cpp = 1.40845% good code, based on 420 correct lengths of lines (<= 100) out of 426 total countable instances.
+	Break down for the incorrect uses of line lengths:
+	On line, 186, there are 156 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 255, there are 166 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 266, there are 171 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 274, there are 223 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 390, there are 176 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 495, there are 190 characters... Reduce the number of characters on this line by splitting onto different lines.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/FunctionSize.h = 0% good code, based on 33 correct lengths of lines (<= 100) out of 33 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.cpp = 1.47059% good code, based on 201 correct lengths of lines (<= 100) out of 204 total countable instances.
+	Break down for the incorrect uses of line lengths:
+	On line, 130, there are 201 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 175, there are 202 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 241, there are 190 characters... Reduce the number of characters on this line by splitting onto different lines.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/LineLength.h = 0% good code, based on 33 correct lengths of lines (<= 100) out of 33 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/linkedlist.h = 0% good code, based on 831 correct lengths of lines (<= 100) out of 831 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/main.cpp = 0% good code, based on 257 correct lengths of lines (<= 100) out of 257 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Metrics.h = 0% good code, based on 42 correct lengths of lines (<= 100) out of 42 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 0% good code, based on 129 correct lengths of lines (<= 100) out of 129 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.h = 0% good code, based on 36 correct lengths of lines (<= 100) out of 36 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.cpp = 1.42602% good code, based on 1106 correct lengths of lines (<= 100) out of 1122 total countable instances.
+	Break down for the incorrect uses of line lengths:
+	On line, 149, there are 156 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 281, there are 161 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 396, there are 153 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 416, there are 165 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 548, there are 161 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 568, there are 173 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 705, there are 161 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 725, there are 173 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 851, there are 153 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 871, there are 165 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 992, there are 153 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 1012, there are 165 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 1095, there are 177 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 1144, there are 153 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 1193, there are 198 characters... Reduce the number of characters on this line by splitting onto different lines.
+	On line, 1267, there are 190 characters... Reduce the number of characters on this line by splitting onto different lines.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/VariableNames.h = 0% good code, based on 32 correct lengths of lines (<= 100) out of 32 total countable instances.
+	All lines in this file are an appropriate length.
+
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/vector.h = 0% good code, based on 242 correct lengths of lines (<= 100) out of 242 total countable instances.
+	All lines in this file are an appropriate length.
+_______________________________________________________________________________________________________________________________________
+	->Total Metric Score: 0.42% good code.
+
+
+Final Score: 8.23% good code
