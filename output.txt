@@ -352,7 +352,7 @@ Score for file = 0% good code, based on 0 incorrect usages of blank lines out of
 	All blank lines in this file were used correctly.
 
 File 15: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp
-Score for file = 6.25% good code, based on 1 incorrect usage of blank lines out of 16 total instances of blank lines.
+Score for file = 6.66667% good code, based on 1 incorrect usage of blank lines out of 15 total instances of blank lines.
 ------->Break down for the incorrect usage of blank lines:
 
 	1) An extra blank line was added on line: 34
@@ -473,7 +473,7 @@ File 19: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Sta
 Score for file = 0% good code, based on 0 incorrect usages of blank lines out of 45 total instances of blank lines.
 	All blank lines in this file were used correctly.
 _______________________________________________________________________________________________________________________________________
-	->Total Metric Score: 11.2072% good code.
+	->Total Metric Score: 11.2291% good code.
 
 
 Metric 2: Evaluate Variable and Function Naming conventions:
@@ -711,11 +711,11 @@ Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analy
 	Break down for the single function:
 	Function beginning on line 22, contains: 27 lines of code... This is acceptable.
 
-Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 0% good code, based on average function length: 36 lines of code for every 3 functions.
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 0% good code, based on average function length: 36.3333 lines of code for every 3 functions.
 	Break down for the functions (both correct and incorrect):
 	Function beginning on line 23, contains: 1 line of code... This is acceptable.
 	Function beginning on line 30, contains: 1 line of code... This is acceptable.
-	Function beginning on line 37, contains: 106 lines of code... Shorten this function or split the task into several smaller functions.
+	Function beginning on line 37, contains: 107 lines of code... Shorten this function or split the task into several smaller functions.
 
 Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.h = 0% good code, based on average function length: 12 lines of code for every 1 function.
 	Break down for the single function:
@@ -968,7 +968,7 @@ Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analy
 Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/Metrics.h = 0% good code, based on 42 correct lengths of lines (<= 100) out of 42 total countable instances.
 	All lines in this file are an appropriate length.
 
-Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 0% good code, based on 129 correct lengths of lines (<= 100) out of 129 total countable instances.
+Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.cpp = 0% good code, based on 130 correct lengths of lines (<= 100) out of 130 total countable instances.
 	All lines in this file are an appropriate length.
 
 Score for file: /Users/jeremybrachle/Documents/Programming/C++/Static-Code-Analyzer/Static-Code-Analyzer/ProcessMetrics.h = 0% good code, based on 36 correct lengths of lines (<= 100) out of 36 total countable instances.

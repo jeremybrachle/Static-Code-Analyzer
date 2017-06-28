@@ -97,6 +97,7 @@ String ProcessMetrics::getScore(const Vector<String> &files, const String &reque
         }
 
     }
+    
     //if the user wants feedback
     else if (request == "-v")
     {
@@ -142,4 +143,3 @@ String ProcessMetrics::getScore(const Vector<String> &files, const String &reque
 
     return output;
 }
-
